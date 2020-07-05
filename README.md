@@ -23,5 +23,6 @@ Click the refresh button to get new quote each time pressed , and the tweet butt
 
 ## Acknowledgements <a name = "acknowledgment"></a>
 
--Quotes  API [https://github.com/lukePeavey/quotable]
--Spinkit
+- [Quotes Generator API](https://github.com/lukePeavey/quotable)
+
+- Spinkit
